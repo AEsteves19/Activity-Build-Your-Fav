@@ -1,0 +1,28 @@
+div {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+  }
+  .row {
+    background-color: dimgray;
+    height: 80px;
+  }
+  p {
+    text-align: left;
+    width: 400px;
+    padding-top: 30px;
+    color: grey;
+  }
+  h2{
+    padding-top: 200px;
+    padding-bottom: 20px;
+  }
+  p, h1, h2 {
+    display: flex;
+    color: black;
+  }
+  .main {
+     background: url(https://i.pinimg.com/736x/b1/0e/a1/b10ea14fb3fabe807db0461e1d12e920.jpg);
+    background-size: cover;
+  }
+  
